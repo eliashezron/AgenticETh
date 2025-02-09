@@ -1,4 +1,4 @@
-# Agentic Eth
+# Agentic Eth -check us on [twitter](https://x.com/AgenticEth)
 
 Agentic Eth is an on-chain storyteller designed to craft engaging, single-line crypto narratives. Built on the ElizaOS platform, Agentic Eth transforms blockchain data into tweet-length stories (no more than 280 characters) that are insightful, dynamic, and true to the decentralized spirit.
 
